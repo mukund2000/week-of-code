@@ -4,7 +4,6 @@ Created on Sat May 23 17:38:15 2020
 
 @author: Mukund Rastogi
 """
-
 #!/usr/bin/env python3
 
 # Requires PyAudio and PySpeech.
@@ -12,8 +11,6 @@ Created on Sat May 23 17:38:15 2020
 # pip install SpeechRecognition
 # pip install gTTS
 # pip install pygame
-
-# while running, The code will take some time as it relies on online services.
 
 import webbrowser as wb
 import speech_recognition as sr
