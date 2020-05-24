@@ -6,7 +6,6 @@ Created on Thu May 21 14:00:37 2020
 """
 
 def fibonacci(k):
-    f=[]
     a=0
     b=1
     print(a,b,end=" ")
